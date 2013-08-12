@@ -1,0 +1,9 @@
+Tiny bottle boilerplate project.
+
+Setup:
+$ virtualenv --distribute venv
+$ source venv/bin/activate
+$ pip install bottle
+
+Execution:
+$ python index.py
