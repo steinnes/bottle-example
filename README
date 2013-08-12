@@ -1,6 +1,8 @@
 Tiny bottle boilerplate project.
 
 Setup:
+$ git clone git@github.com:steinnes/bottle-example.git
+$ cd bottle-example
 $ virtualenv --distribute venv
 $ source venv/bin/activate
 $ pip install bottle
